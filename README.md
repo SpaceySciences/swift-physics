@@ -1,2 +1,3 @@
 # swift-physics
-A simple physics lib written in swift
+
+A simple physics library written in swift, useful for simple iOS games.

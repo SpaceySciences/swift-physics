@@ -1,0 +1,4 @@
+all:
+	ls
+clean:
+	rm *~
